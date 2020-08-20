@@ -42,7 +42,7 @@ And the following hardware, will be needed.
 3.	A definitive check can be performed by increasing the gap between both the sensors by 30 CMS and you can see the red LED glowing and the Buzzer will also ring.
 
 
-### Read Report.pdf for further explanation. 
+## Read [Report.pdf](./Report.pdf) for further explanation. 
 
 
 
