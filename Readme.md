@@ -1,7 +1,7 @@
 # Calamity Companion
 
 Unseen pits are one of the major issues while driving on flooded roads.
-This project indicates the user about the pits on the road ahead.There are ultrasound range sensors in the device which measures the distance of the sensor from the ground. There are two such sensors. The difference of the reading of these sensors is used to predict the depth of the pit during
+This project alerts the user about the pits on the road ahead.There are ultrasound range sensors in the device which measures the distance of the sensor from the ground. There are two such sensors. The difference of the reading of these sensors is used to predict the depth of the pit during
 floods. The device then accordingly glows the LEDs and buzzers, To assist the user ensuring his/her safety.
 
 
